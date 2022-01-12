@@ -16,7 +16,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -53,7 +53,7 @@
     </a> 
 </p>
 
-<br><hr>
+<hr>
 
 <p>
     <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arson90&show_icons=true&locale=en&layout=compact&langs_count=10&theme=ocean_dark&hide=Pascal" alt="arson90" />
