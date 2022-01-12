@@ -56,7 +56,7 @@
 <p>
     <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arson90&show_icons=true&locale=en&layout=compact&langs_count=10&theme=ocean_dark&hide=Pascal" alt="arson90" />
 </p>
-
+<br>
 <p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=arson90&show_icons=true&locale=en&theme=ocean_dark&include_all_commits=true" alt="arson90" /></p>
 <br>
 <p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=arson90&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=151A28&ring=764D9C&currStreakLabel=8957B2&fire=92D534" alt="arson90" /></p>
