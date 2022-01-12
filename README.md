@@ -1,3 +1,5 @@
+![maxresdefault](https://user-images.githubusercontent.com/37801354/149208392-df9ecd32-d40c-4572-943b-0e5e0f6e2128.jpg)
+
 <h1 align="center">Hi 👋, I'm Arek</h1>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fardas-it.com%2Fuploads%2Fimages%2Fblogs%2Fgiph.gif&f=1&nofb=1" >
 
