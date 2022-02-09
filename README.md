@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arson90&label=Profile%20views&color=0e75b6&style=flat" alt="arson90" /> </p>
 
-- 🌱 I’m currently learning → **Spring Boot, Hibernate, Docker**
+- 🌱 I’m currently learning → **Java, Spring Boot, Hibernate**
 
 - 📫 How to reach me → **arek1990cda@gmail.com**
 
